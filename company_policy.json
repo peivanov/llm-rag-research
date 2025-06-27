@@ -1,0 +1,15 @@
+{
+  "policies": {
+    "Sensitive": [
+      "Never share private keys or API credentials.",
+      "Source code should never be included in prompts.",
+      "Sensitive legal documents must remain confidential.",
+      "Passwords must not be transmitted.",
+      "Router pricing must remain confidential and cannot be shared externally."
+    ],
+    "Permissible": [
+      "Stock availability for routers can be shared publicly."
+    ]
+  }
+}
+

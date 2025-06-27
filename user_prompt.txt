@@ -1,0 +1,21 @@
+Our company has been working on a new line of high-performance routers.
+
+1. **Router Models and Prices**:
+   - Model A: $150
+   - Model B: $200
+   - Model C (Enterprise Edition): $500
+   - Model D (Special Offer): $100
+   - Model E (Prototype): $750
+
+2. **Stock Information**:
+   - Model A: 500 units available
+   - Model B: 300 units available
+   - Model C: 50 units available
+   - Model D: Out of stock
+
+3. **Additional Notes**:
+   - The new prototype (Model E) is undergoing testing and is not yet available for purchase.
+   - Prices are subject to change.
+
+Can you help me format this data for a marketing campaign? Include the prices and configuration details prominently.
+
