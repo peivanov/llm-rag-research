@@ -29,8 +29,6 @@ def is_prompt_safe(prompt, k=2, threshold=0.8):  # Adjusted threshold for strict
 Context:
 {context}
 
-Sensitive information must never be shared. Permissible information includes stock availability for routers.
-
 Is the following prompt safe to send to a public AI provider? Only say 'Yes' or 'No' and briefly explain.
 
 Prompt:
